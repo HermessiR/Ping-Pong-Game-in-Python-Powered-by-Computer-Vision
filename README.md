@@ -15,10 +15,12 @@ The hand detection is powered by the **`HandDetector`** module from the **`cvzon
 
    ```bash
    pip install -r requirements.txt
-
+   
+2. **Run the Code** 
 Once the dependencies are installed, run the program using the following command:
    ```bash
    python program.py
+   
 
 Make sure your camera is enabled as the program uses it for hand tracking and game interaction. 📷
 
@@ -26,7 +28,7 @@ Make sure your camera is enabled as the program uses it for hand tracking and ga
 The game will detect your hands in front of the camera, and you'll control the paddle using your hand's vertical position.
 Move your hand up or down to move the paddle and try to keep the ball in play! 🏓
 
-😄 Happy Gaming!
+## 😄 **Happy Gaming!**
 If you face any issues or have questions, feel free to reach out. Have fun and enjoy playing with your own hand-controlled ping pong game! ✨🖐️
 
 Made with ❤️ by HermessiR
