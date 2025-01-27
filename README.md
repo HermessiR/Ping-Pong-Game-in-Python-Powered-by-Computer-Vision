@@ -16,11 +16,10 @@ The hand detection is powered by the **`HandDetector`** module from the **`cvzon
    ```bash
    pip install -r requirements.txt
 
-Run the Program
 Once the dependencies are installed, run the program using the following command:
+   ```bash
+   python program.py
 
-
-python program.py
 Make sure your camera is enabled as the program uses it for hand tracking and game interaction. 📷
 
 ## 🎮 **How to Play**
